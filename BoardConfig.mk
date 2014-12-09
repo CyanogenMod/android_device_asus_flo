@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# Inline kernel building
+TARGET_KERNEL_SOURCE := kernel/google/msm
+TARGET_KERNEL_CONFIG := cyanogen_flo_defconfig
+
 TARGET_BOOTLOADER_BOARD_NAME := flo
 TARGET_BOOTLOADER_NAME := flo
 TARGET_BOARD_INFO_FILE := device/asus/flo/board-info.txt
