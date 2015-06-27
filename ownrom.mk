@@ -4,7 +4,7 @@ TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1200
 TARGET_BOOTANIMATION_HALF_RES := true
 
-# Inherit some common ownrom stuff.
+# Inherit some common OwnROM stuff.
 $(call inherit-product, vendor/ownrom/config/common_full_tablet_wifionly.mk)
 
 # Enhanced NFC
