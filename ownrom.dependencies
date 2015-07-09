@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "CyanogenMod/android_kernel_google_msm",
+    "target_path": "kernel/google/msm",
+    "remote": "github",
+    "revision": "cm-12.1"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote": "github",
+    "revision": "cm-12.1"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_asus",
+    "target_path": "vendor/asus",
+    "remote": "github",
+    "revision": "cm-12.1"
+  }
+]
